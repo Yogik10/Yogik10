@@ -1,14 +1,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,030 Contributions in the Year 2023
+> 🏆 1,035 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,24 +43,24 @@ Sunday                   123 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
-Smarty                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-CSS                      3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-JavaScript               2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Apache Config            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+PHP                      5 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
+Smarty                   3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+JavaScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+CSS                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Apache Config            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-PhpStorm                 18 hrs 5 mins       █████████████████████████   100.00 % 
+PhpStorm                 16 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mcprofessor              7 hrs 39 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
-btg-back                 5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-sluhcenter               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-topform                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-royal                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+mcprofessor              7 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.96 % 
+btg-back                 6 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+topform                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+chistotronik             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+topform-topform          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Windows                  18 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 18:44:37 UTC
+ Last Updated on 23/11/2023 18:43:59 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
