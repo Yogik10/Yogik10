@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,7 +80,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2024 18:42:55 UTC
+ Last Updated on 25/02/2024 18:42:55 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
