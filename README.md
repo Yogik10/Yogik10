@@ -43,22 +43,16 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      2 hrs 20 mins       █████████████████░░░░░░░░   69.67 % 
-JavaScript               1 hr                ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aveza                    2 hrs 44 mins       ████████████████████░░░░░   81.50 % 
-assets                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-translation              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +72,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:50:57 UTC
+ Last Updated on 24/08/2024 18:48:53 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
