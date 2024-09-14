@@ -1,8 +1,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,24 +43,24 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      12 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.85 % 
-Smarty                   8 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Blade Template           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+PHP                      11 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.94 % 
+Smarty                   8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-PhpStorm                 24 hrs 38 mins      █████████████████████████   100.00 % 
+PhpStorm                 22 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-translation              12 hrs 57 mins      █████████████░░░░░░░░░░░░   52.62 % 
-reports                  3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-fossa-shop               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-podshipnik-s-html        1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-bearing                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+translation              13 hrs 51 mins      ███████████████░░░░░░░░░░   60.60 % 
+fossa-shop               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+podshipnik-s-html        1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+bearing                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+assets                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-Windows                  24 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:56:06 UTC
+ Last Updated on 14/09/2024 18:51:33 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
