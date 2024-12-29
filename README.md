@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,18 +43,22 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      3 hrs 41 mins       █████████████████████████   99.86 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+PHP                      6 hrs 42 mins       ██████████████████████░░░   87.41 % 
+Blade Template           49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Smarty                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 42 mins       █████████████████████████   100.00 % 
+PhpStorm                 7 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aveza                    3 hrs 41 mins       █████████████████████████   99.86 % 
-assets                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+aveza                    4 hrs 4 mins        █████████████░░░░░░░░░░░░   53.23 % 
+task                     3 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.70 % 
+assets                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +78,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:54:44 UTC
+ Last Updated on 29/12/2024 18:54:56 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
