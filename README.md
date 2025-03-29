@@ -1,14 +1,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 303 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,24 +41,24 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      6 hrs 18 mins       ██████████████░░░░░░░░░░░   57.87 % 
-Smarty                   1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-CSS                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Apache Config            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+PHP                      8 hrs 3 mins        ████████████████░░░░░░░░░   64.92 % 
+Smarty                   1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Apache Config            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-PhpStorm                 10 hrs 54 mins      █████████████████████████   100.00 % 
+PhpStorm                 12 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-step-html                3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-aveza                    3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-fossa-shop               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-translation              1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-chistotronik             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+aveza                    6 hrs 46 mins       ██████████████░░░░░░░░░░░   54.58 % 
+step-html                2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+fossa-shop               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+translation              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+chistotronik             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -80,7 +78,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 19:03:43 UTC
+ Last Updated on 29/03/2025 18:57:44 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
