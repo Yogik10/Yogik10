@@ -43,23 +43,16 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      2 hrs 37 mins       ████████████████████░░░░░   81.86 % 
-Smarty                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-novakuhni                2 hrs 48 mins       ██████████████████████░░░   87.29 % 
-fossa-shop               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-assets                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -79,7 +72,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 19:06:37 UTC
+ Last Updated on 12/07/2025 19:03:33 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
