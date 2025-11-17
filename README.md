@@ -1,12 +1,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,265 Contributions in the Year 2025
+> 🏆 1,277 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,20 +19,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10997 commits       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌆 Daytime                29802 commits       ███████████████░░░░░░░░░░   60.96 % 
-🌃 Evening                7036 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌞 Morning                11007 commits       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌆 Daytime                29836 commits       ███████████████░░░░░░░░░░   60.93 % 
+🌃 Evening                7072 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 🌙 Night                  1056 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10221 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Tuesday                  11710 commits       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Wednesday                9655 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Thursday                 9793 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   6713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Saturday                 671 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Monday                   10249 commits       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Tuesday                  11717 commits       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Wednesday                9669 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Thursday                 9807 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Friday                   6729 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 672 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
@@ -78,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 19:03:58 UTC
+ Last Updated on 17/11/2025 19:11:58 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
