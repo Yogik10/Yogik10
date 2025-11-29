@@ -43,24 +43,16 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      3 hrs 36 mins       ████████████████████░░░░░   78.84 % 
-Smarty                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 4 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yusupova-tf              4 hrs 18 mins       ███████████████████████░░   93.81 % 
-hermes                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-royal                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-yusupova                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-assets                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +72,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 19:06:02 UTC
+ Last Updated on 29/11/2025 19:05:52 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
