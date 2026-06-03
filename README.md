@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogik10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake](https://raw.githubusercontent.com/Yogik10/Yogik10/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Yogik10/Yogik10/output/github-snake.svg)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
