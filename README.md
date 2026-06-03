@@ -2,6 +2,8 @@
 
 ![Snake](https://raw.githubusercontent.com/Yogik10/Yogik10/output/github-contribution-grid-snake.svg)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2012%20mins-blue?style=flat)
 
