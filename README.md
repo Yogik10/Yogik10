@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogik10)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake](https://raw.githubusercontent.com/Yogik10/Yogik10/output/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2012%20mins-blue?style=flat)
 
