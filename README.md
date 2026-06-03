@@ -1,4 +1,5 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogik10)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogik10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2012%20mins-blue?style=flat)
 
@@ -76,14 +77,8 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 **Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
-
-
  Last Updated on 02/06/2026 21:51:30 UTC
 <!--END_SECTION:waka-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogik10)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogik10&theme=solarized_dark)
 
 
