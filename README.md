@@ -5,8 +5,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2054%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -24,20 +22,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12624 commits       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-🌆 Daytime                34060 commits       ███████████████░░░░░░░░░░   61.19 % 
-🌃 Evening                7900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+🌞 Morning                12662 commits       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+🌆 Daytime                34173 commits       ███████████████░░░░░░░░░░   61.21 % 
+🌃 Evening                7914 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 🌙 Night                  1077 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   11809 commits       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Tuesday                  13211 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Wednesday                11091 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Thursday                 11161 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Friday                   7483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Saturday                 778 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Monday                   11858 commits       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Tuesday                  13256 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Wednesday                11110 commits       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Thursday                 11184 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Friday                   7508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Saturday                 782 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
@@ -48,16 +46,23 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      4 hrs 56 mins       ███████████████████████░░   91.98 % 
+Smarty                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Apache Config            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 5 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+multimodal-china         3 hrs 4 mins        ██████████████░░░░░░░░░░░   57.30 % 
+cargo                    2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.64 % 
+chistotronik             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+multimodal               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +88,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:28:55 UTC
+ Last Updated on 28/07/2026 20:24:39 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
