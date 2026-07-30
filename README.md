@@ -5,7 +5,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C231%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C235%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,8 +48,8 @@ Sunday                   118 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      6 hrs 14 mins       █████████████████░░░░░░░░   67.89 % 
-Smarty                   2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
+PHP                      6 hrs 14 mins       █████████████████░░░░░░░░   67.90 % 
+Smarty                   2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Apache Config            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
@@ -58,9 +58,9 @@ INI                      1 min               ░░░░░░░░░░░�
 PhpStorm                 9 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multimodal-china         5 hrs 37 mins       ███████████████░░░░░░░░░░   61.18 % 
-cargo                    2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-hermes                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+multimodal-china         5 hrs 37 mins       ███████████████░░░░░░░░░░   61.17 % 
+cargo                    2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+hermes                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 chistotronik             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 multimodal               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
@@ -91,7 +91,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 20:18:27 UTC
+ Last Updated on 30/07/2026 20:25:00 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
