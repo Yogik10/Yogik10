@@ -15,7 +15,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 818 Contributions in the Year 2026
+> 🏆 820 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,19 +26,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12867 commits       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-🌆 Daytime                34763 commits       ███████████████░░░░░░░░░░   61.35 % 
-🌃 Evening                7973 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-🌙 Night                  1065 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+🌞 Morning                12874 commits       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+🌆 Daytime                34786 commits       ███████████████░░░░░░░░░░   61.35 % 
+🌃 Evening                7975 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌙 Night                  1066 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   12115 commits       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Tuesday                  13465 commits       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Wednesday                11250 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Thursday                 11315 commits       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Friday                   7616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Monday                   12131 commits       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Tuesday                  13475 commits       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Wednesday                11252 commits       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Thursday                 11318 commits       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   7618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 Saturday                 789 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 Sunday                   118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
@@ -50,46 +50,47 @@ Sunday                   118 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      9 hrs 27 mins       ██████████████████░░░░░░░   72.52 % 
-Smarty                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Apache Config            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-htaccess                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+PHP                      11 hrs 7 mins       ███████████████░░░░░░░░░░   61.51 % 
+Smarty                   4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-PhpStorm                 13 hrs 2 mins       █████████████████████████   100.00 % 
+PhpStorm                 18 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-authorsport              8 hrs 47 mins       █████████████████░░░░░░░░   67.46 % 
-tkt-new                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-hermes                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-assets                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-cms                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+authorsport              14 hrs 37 mins      ████████████████████░░░░░   80.92 % 
+tkt-new                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+assets                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+cms                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+cargo                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (2.57%)
+⏱ AI Coding Time: 2 hrs 22 mins (13.18%)
 
-✍️ 53 lines written by AI, 1,831 lines written by hand (2.81% AI-written)
+✍️ 401 lines written by AI, 2,525 lines written by hand (13.7% AI-written)
 
-🔤 109,579 Input Tokens, 9,881 Output Tokens
+🔤 1,382,443 Input Tokens, 131,637 Output Tokens
 
-💵 $2.49 Estimated AI Cost This Week
+💵 $45.91 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
-Opencode-Cli             53 lines            █████████████████████████   100.00 % 
+Opencode-Cli             276 lines           ███████████████░░░░░░░░░░   60.26 % 
+Hy                       182 lines           ██████████░░░░░░░░░░░░░░░   39.74 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.81% of written lines came from AI
-📚 Verbose Prompter — average 2,361 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 97.97% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.7% of written lines came from AI
+📚 Verbose Prompter — average 21,759 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 98.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +110,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:35:01 UTC
+ Last Updated on 25/08/2026 19:34:32 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
