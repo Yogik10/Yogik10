@@ -5,9 +5,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,47 +50,47 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Smarty                   6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-PHP                      5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
-Log                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+PHP                      7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+Smarty                   6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
+Log                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-PhpStorm                 14 hrs 17 mins      █████████████████████████   100.00 % 
+PhpStorm                 16 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-authorsport              13 hrs              ███████████████████████░░   91.01 % 
-assets                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-yusupova-tf              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-teya                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-planetaspb               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+authorsport              15 hrs 39 mins      ███████████████████████░░   93.63 % 
+assets                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+yusupova-tf              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+teya                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+planetaspb               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (23.99%)
+⏱ AI Coding Time: 4 hrs 51 mins (29.02%)
 
-✍️ 625 lines written by AI, 5,174 lines written by hand (10.78% AI-written)
+✍️ 1,692 lines written by AI, 4,855 lines written by hand (25.84% AI-written)
 
-🔤 2,078,360 Input Tokens, 219,405 Output Tokens
+🔤 2,524,304 Input Tokens, 398,378 Output Tokens
 
-💵 $87.78 Estimated AI Cost This Week
+💵 $162.66 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 31 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
-Hy                       467 lines           ████████████████░░░░░░░░░   62.85 % 
-Opencode-Cli             276 lines           █████████░░░░░░░░░░░░░░░░   37.15 % 
+Opencode-Cli             1,357 lines         ███████████████████░░░░░░   74.40 % 
+Hy                       467 lines           ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.78% of written lines came from AI
-📚 Verbose Prompter — average 18,320 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.74% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.84% of written lines came from AI
+📚 Verbose Prompter — average 17,663 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 94.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:11:34 UTC
+ Last Updated on 29/08/2026 21:30:33 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
