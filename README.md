@@ -5,7 +5,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C316%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C318%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%204%20mins-blue?style=flat)
 
@@ -50,46 +50,46 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      10 hrs 8 mins       ████████████░░░░░░░░░░░░░   48.59 % 
-Smarty                   7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
-SQL                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+PHP                      9 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.77 % 
+Smarty                   6 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
+SQL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Apache Config            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-PhpStorm                 20 hrs 51 mins      █████████████████████████   100.00 % 
+PhpStorm                 19 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-task                     8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.84 % 
-hermes                   8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.68 % 
-teya                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-authorsport              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-assets                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+task                     9 hrs 41 mins       █████████████░░░░░░░░░░░░   50.79 % 
+hermes                   6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
+authorsport              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+translation              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+assets                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 💻 Operating System: 
-Windows                  20 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (35.13%)
+⏱ AI Coding Time: 5 hrs 3 mins (26.53%)
 
-✍️ 1,948 lines written by AI, 1,246 lines written by hand (60.99% AI-written)
+✍️ 666 lines written by AI, 907 lines written by hand (42.34% AI-written)
 
-🔤 6,453,641 Input Tokens, 708,166 Output Tokens
+🔤 3,919,199 Input Tokens, 436,403 Output Tokens
 
-💵 $286.20 Estimated AI Cost This Week
+💵 $183.57 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 56 AI Prompts
+🧠 7 AI Sessions, 33 AI Prompts
 
-Opencode-Cli             2,005 lines         █████████████████████████   100.00 % 
+Opencode-Cli             704 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.99% of written lines came from AI
-📚 Verbose Prompter — average 7,007 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 45.17% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.34% of written lines came from AI
+📚 Verbose Prompter — average 9,417 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 60.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:27:13 UTC
+ Last Updated on 19/09/2026 21:17:02 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
