@@ -5,7 +5,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C322%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%204%20mins-blue?style=flat)
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11935 commits       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌆 Daytime                28378 commits       ███████████████░░░░░░░░░░   58.32 % 
-🌃 Evening                7283 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌙 Night                  1066 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+🌞 Morning                11951 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+🌆 Daytime                28439 commits       ███████████████░░░░░░░░░░   58.28 % 
+🌃 Evening                7321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌙 Night                  1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10621 commits       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Tuesday                  11578 commits       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Wednesday                9518 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Thursday                 9819 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Friday                   6217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Saturday                 791 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Sunday                   118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Monday                   10649 commits       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Tuesday                  11604 commits       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Wednesday                9541 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Thursday                 9834 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Friday                   6237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 800 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
@@ -50,56 +50,56 @@ Sunday                   118 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      10 hrs 15 mins      ██████████████░░░░░░░░░░░   57.09 % 
-Smarty                   4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Apache Config            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+PHP                      11 hrs              ████████████████░░░░░░░░░   62.21 % 
+Smarty                   3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Apache Config            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-PhpStorm                 17 hrs 57 mins      █████████████████████████   100.00 % 
+PhpStorm                 17 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-task                     11 hrs 5 mins       ███████████████░░░░░░░░░░   61.77 % 
-hermes                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-metalobaza               2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-translation              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-authorsport              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+task                     12 hrs 26 mins      ██████████████████░░░░░░░   70.31 % 
+metalobaza               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+translation              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+royal                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+hermes                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Windows                  17 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (14.84%)
+⏱ AI Coding Time: 1 hr 44 mins (9.86%)
 
-✍️ 312 lines written by AI, 940 lines written by hand (24.92% AI-written)
+✍️ 137 lines written by AI, 601 lines written by hand (18.56% AI-written)
 
-🔤 2,079,280 Input Tokens, 180,250 Output Tokens
+🔤 1,276,917 Input Tokens, 77,429 Output Tokens
 
-💵 $68.79 Estimated AI Cost This Week
+💵 $37.64 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-Opencode-Cli             315 lines           █████████████████████████   100.00 % 
+Opencode-Cli             137 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.92% of written lines came from AI
-📚 Verbose Prompter — average 10,101 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 78.45% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.56% of written lines came from AI
+📚 Verbose Prompter — average 10,278 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 86.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-HTML                     29 repos            ████████░░░░░░░░░░░░░░░░░   32.95 % 
-PHP                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript               31 repos            █████████░░░░░░░░░░░░░░░░   35.63 % 
+HTML                     29 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+PHP                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
@@ -109,7 +109,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:57:19 UTC
+ Last Updated on 23/09/2026 22:03:57 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
