@@ -5,9 +5,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 983 Contributions in the Year 2026
+> 🏆 990 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,7 +27,7 @@
 
 ```text
 🌞 Morning                11940 commits       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-🌆 Daytime                28434 commits       ███████████████░░░░░░░░░░   58.30 % 
+🌆 Daytime                28441 commits       ███████████████░░░░░░░░░░   58.30 % 
 🌃 Evening                7320 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 🌙 Night                  1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
@@ -35,10 +35,10 @@
 
 ```text
 Monday                   10638 commits       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Tuesday                  11588 commits       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Tuesday                  11588 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
 Wednesday                9536 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 Thursday                 9860 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Friday                   6226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Friday                   6233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 Saturday                 800 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
@@ -50,47 +50,47 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      14 hrs 48 mins      ████████████████░░░░░░░░░   64.94 % 
-JavaScript               3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Smarty                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PHP                      12 hrs 29 mins      ██████████████░░░░░░░░░░░   57.26 % 
+JavaScript               5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Smarty                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+GitIgnore file           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-PhpStorm                 22 hrs 48 mins      █████████████████████████   100.00 % 
+PhpStorm                 21 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ci-market                10 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.06 % 
-task                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-mcprofessor              2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-multimodal-china         1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-authorsport              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+ci-market                13 hrs 4 mins       ███████████████░░░░░░░░░░   59.98 % 
+task                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+mcprofessor              2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+authorsport              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+tkt-new                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 13 mins (49.23%)
+⏱ AI Coding Time: 13 hrs 35 mins (62.36%)
 
-✍️ 840 lines written by AI, 967 lines written by hand (46.49% AI-written)
+✍️ 1,248 lines written by AI, 836 lines written by hand (59.88% AI-written)
 
-🔤 6,752,812 Input Tokens, 1,025,555 Output Tokens
+🔤 8,384,445 Input Tokens, 1,136,024 Output Tokens
 
-💵 $303.19 Estimated AI Cost This Week
+💵 $368.99 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 58 AI Prompts
+🧠 9 AI Sessions, 84 AI Prompts
 
-Opencode-Cli             799 lines           █████████████████████░░░░   82.71 % 
-Spark                    167 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Spark                    789 lines           ██████████████░░░░░░░░░░░   54.53 % 
+Opencode-Cli             658 lines           ███████████░░░░░░░░░░░░░░   45.47 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.49% of written lines came from AI
-📚 Verbose Prompter — average 14,084 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 82.41% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.88% of written lines came from AI
+📚 Verbose Prompter — average 13,292 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 73.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:56:01 UTC
+ Last Updated on 09/10/2026 23:09:56 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
