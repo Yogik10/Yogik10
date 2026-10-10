@@ -5,9 +5,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,47 +50,47 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      12 hrs 29 mins      ██████████████░░░░░░░░░░░   57.26 % 
-JavaScript               5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Smarty                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-GitIgnore file           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+PHP                      11 hrs 47 mins      ██████████████░░░░░░░░░░░   56.14 % 
+JavaScript               6 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Smarty                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+GitIgnore file           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Log                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-PhpStorm                 21 hrs 48 mins      █████████████████████████   100.00 % 
+PhpStorm                 20 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ci-market                13 hrs 4 mins       ███████████████░░░░░░░░░░   59.98 % 
-task                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-mcprofessor              2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-authorsport              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-tkt-new                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+ci-market                13 hrs 20 mins      ████████████████░░░░░░░░░   63.54 % 
+authorsport              2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+mcprofessor              2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+task                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+tkt-new                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 35 mins (62.36%)
+⏱ AI Coding Time: 12 hrs 57 mins (61.69%)
 
-✍️ 1,248 lines written by AI, 836 lines written by hand (59.88% AI-written)
+✍️ 1,710 lines written by AI, 768 lines written by hand (69.01% AI-written)
 
-🔤 8,384,445 Input Tokens, 1,136,024 Output Tokens
+🔤 8,142,155 Input Tokens, 1,111,731 Output Tokens
 
-💵 $368.99 Estimated AI Cost This Week
+💵 $380.83 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 84 AI Prompts
+🧠 8 AI Sessions, 85 AI Prompts
 
-Spark                    789 lines           ██████████████░░░░░░░░░░░   54.53 % 
-Opencode-Cli             658 lines           ███████████░░░░░░░░░░░░░░   45.47 % 
+Spark                    1,425 lines         ██████████████████░░░░░░░   73.68 % 
+Opencode-Cli             509 lines           ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.88% of written lines came from AI
-📚 Verbose Prompter — average 13,292 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 73.24% of changed lines were hand-edited
+🤖 AI-Driven — 69.01% of written lines came from AI
+📚 Verbose Prompter — average 14,606 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 66.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 23:09:56 UTC
+ Last Updated on 10/10/2026 22:20:06 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
