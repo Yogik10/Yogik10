@@ -5,9 +5,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C378%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,024 Contributions in the Year 2026
+> 🏆 1,028 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,19 +26,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11950 commits       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌆 Daytime                28471 commits       ███████████████░░░░░░░░░░   58.31 % 
-🌃 Evening                7326 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌙 Night                  1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌞 Morning                11958 commits       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌆 Daytime                28519 commits       ███████████████░░░░░░░░░░   58.31 % 
+🌃 Evening                7354 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+🌙 Night                  1082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10649 commits       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Tuesday                  11604 commits       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Wednesday                9546 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Thursday                 9867 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Friday                   6235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Monday                   10685 commits       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Tuesday                  11630 commits       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Wednesday                9546 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Thursday                 9867 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Friday                   6257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Saturday                 800 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
@@ -50,57 +50,57 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
-Smarty                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
-JavaScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Log                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Smarty                   6 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.44 % 
+PHP                      5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Log                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-PhpStorm                 15 hrs 21 mins      █████████████████████████   100.00 % 
+PhpStorm                 13 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-task                     7 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.85 % 
-ci-market                2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-authorsport              2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-cms                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-teya                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+task                     8 hrs 10 mins       ███████████████░░░░░░░░░░   59.15 % 
+authorsport              1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+cms                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+teya                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+task-html                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (53.29%)
+⏱ AI Coding Time: 5 hrs 43 mins (41.42%)
 
-✍️ 2,000 lines written by AI, 619 lines written by hand (76.37% AI-written)
+✍️ 1,443 lines written by AI, 4,236 lines written by hand (25.41% AI-written)
 
-🔤 8,239,318 Input Tokens, 369,792 Output Tokens
+🔤 6,599,099 Input Tokens, 242,037 Output Tokens
 
-💵 $303.59 Estimated AI Cost This Week
+💵 $227.19 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 93 AI Prompts
+🧠 16 AI Sessions, 68 AI Prompts
 
-Spark                    2,226 lines         █████████████████████████   98.93 % 
-Opencode-Cli             24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Spark                    1,611 lines         █████████████████████████   99.51 % 
+Opencode-Cli             8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.37% of written lines came from AI
-📚 Verbose Prompter — average 5,147 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 92.37% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.41% of written lines came from AI
+📚 Verbose Prompter — average 2,640 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 95.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               31 repos            █████████░░░░░░░░░░░░░░░░   35.23 % 
-HTML                     28 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
-PHP                      15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript               31 repos            █████████░░░░░░░░░░░░░░░░   34.83 % 
+HTML                     28 repos            ████████░░░░░░░░░░░░░░░░░   31.46 % 
+PHP                      15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
@@ -110,7 +110,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:59:26 UTC
+ Last Updated on 16/10/2026 21:52:01 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
