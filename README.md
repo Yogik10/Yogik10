@@ -5,9 +5,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yogik10&theme=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C391%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,50 +50,49 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-PHP                      8 hrs 10 mins       ██████████████████░░░░░░░   72.73 % 
-Smarty                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Log                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+PHP                      8 hrs 41 mins       ███████████████████░░░░░░   75.97 % 
+Smarty                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Log                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+SCSS                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-PhpStorm                 11 hrs 14 mins      █████████████████████████   100.00 % 
+PhpStorm                 11 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-task                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-yusupova-tf              2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-flan                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-authorsport              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-teya                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+yusupova-tf              3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+task                     2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+flan                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+authorsport              1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+teya                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 💻 Operating System: 
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 13 mins (64.22%)
+⏱ AI Coding Time: 6 hrs 48 mins (59.54%)
 
-✍️ 1,249 lines written by AI, 2,363 lines written by hand (34.58% AI-written)
+✍️ 1,315 lines written by AI, 2,432 lines written by hand (35.09% AI-written)
 
-🔤 4,088,935 Input Tokens, 377,757 Output Tokens
+🔤 4,109,952 Input Tokens, 388,386 Output Tokens
 
-💵 $241.51 Estimated AI Cost This Week
+💵 $237.06 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 42 AI Prompts
+🧠 17 AI Sessions, 40 AI Prompts
 
-GLM                      682 lines           ████████████░░░░░░░░░░░░░   48.06 % 
-MiMo                     334 lines           ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Nemotron                 256 lines           █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-DeepSeek                 135 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Spark                    12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+GLM                      754 lines           █████████████░░░░░░░░░░░░   50.98 % 
+MiMo                     334 lines           ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Nemotron                 256 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+DeepSeek                 135 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.58% of written lines came from AI
-📚 Verbose Prompter — average 9,508 characters per prompt
+⚖️ Balanced with AI — 35.09% of written lines came from AI
+📚 Verbose Prompter — average 9,420 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 62.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +112,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yogik10/Yogik10/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:57:50 UTC
+ Last Updated on 24/10/2026 21:24:00 UTC
 <!--END_SECTION:waka-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogik10&theme=solarized_dark)
 
